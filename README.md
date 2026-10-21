@@ -10,6 +10,8 @@ El objetivo fue identificar patrones estacionales de demanda y explorar cómo va
 
 👉 [Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/diana.stefania.perez.acu.a/viz/EstacionalidadDemandayVentas20242025/DashboardEstacionalidadyDemanda)
 
+![Dashboard interactivo de estacionalidad y demanda](dashboard_tableau.png)
+
 ## Problema de negocio
 
 El negocio presenta variaciones de demanda a lo largo del año. Se busca entender qué factores están asociados con esos cambios para apoyar decisiones de inventario, producción, mix de productos y estrategia de canal.
