@@ -6,6 +6,10 @@ Proyecto de análisis de datos desarrollado sobre un dataset sintético que repr
 
 El objetivo fue identificar patrones estacionales de demanda y explorar cómo variables como la temperatura, las precipitaciones, la categoría de producto, la sucursal y el canal de venta se relacionan con el comportamiento de las ventas.
 
+## 📊 Dashboard interactivo
+
+👉 [Ver dashboard en Tableau Public](https://public.tableau.com/app/profile/diana.stefania.perez.acu.a/viz/EstacionalidadDemandayVentas20242025/DashboardEstacionalidadyDemanda)
+
 ## Problema de negocio
 
 El negocio presenta variaciones de demanda a lo largo del año. Se busca entender qué factores están asociados con esos cambios para apoyar decisiones de inventario, producción, mix de productos y estrategia de canal.
